@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3-common/e3-common.iml" filepath="$PROJECT_DIR$/e3-common/e3-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-dao/e3-manager-dao.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-dao/e3-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-interface/e3-manager-interface.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-interface/e3-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-pojo/e3-manager-pojo.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-pojo/e3-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager/e3-manager-service/e3-manager-service.iml" filepath="$PROJECT_DIR$/e3-manager/e3-manager-service/e3-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3-manager-web/e3-manager-web.iml" filepath="$PROJECT_DIR$/e3-manager-web/e3-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3parent.iml" filepath="$PROJECT_DIR$/e3parent.iml" />
+      <module fileurl="file://E:/宜立方/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/FastDFS/bin/fastdfs_client/fastdfs_client.iml" filepath="E:/宜立方/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/FastDFS/bin/fastdfs_client/fastdfs_client.iml" />
+      <module fileurl="file://E:/宜立方/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/mybatis/逆向工程/generatorSqlmapCustom/generatorSqlmapCustom.iml" filepath="E:/宜立方/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/mybatis/逆向工程/generatorSqlmapCustom/generatorSqlmapCustom.iml" />
+      <module fileurl="file://E:/宜立方/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/mybatis/pagehelper-fix/pagehelper/pagehelper.iml" filepath="E:/宜立方/e3商城_day01/黑马32期/01.教案-3.0/01.参考资料/mybatis/pagehelper-fix/pagehelper/pagehelper.iml" />
+    </modules>
+  </component>
+</project>
